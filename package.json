@@ -1,0 +1,22 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "express learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "express",
+    "learning"
+  ],
+  "author": "Gabriel Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hjs": "0.0.6",
+    "hogan-middleware": "^0.2.2"
+  }
+}
